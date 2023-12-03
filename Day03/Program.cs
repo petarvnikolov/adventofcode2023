@@ -154,4 +154,4 @@ int PartTwo()
 }
 
 Console.WriteLine("Part 1: " + PartOne());
-Console.WriteLine("Part 1: " + PartTwo());
+Console.WriteLine("Part 2: " + PartTwo());
