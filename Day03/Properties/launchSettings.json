@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Run": {
+      "commandName": "Project",
+      "commandLineArgs": "< PuzzleInput.txt > PuzzleOutput.txt"
+    }
+  }
+}
